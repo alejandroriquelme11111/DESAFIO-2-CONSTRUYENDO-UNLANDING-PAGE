@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2? familia= Alkatra:peso@400;700 &family= Lobster & display=swap');
+body{
+    background-image: url("../img/fondo\ \(2\).png");
+    background-size:cover ;
+    background-position: center;
+    margin: auto;
+    }
+    .header{
+        background-image: url("../img/encabezado.png");
+        background-size: cover ;
+        background-position: center;
+        padding: 4rem;
+        margin-bottom: 4rem;
+    }
+    .header h1{
+        font-family: "farsan",cursive;
+        font-size: 5rem;
+        color: #d70680;
+        text-align: center;
+        }
+ 
+h2{
+    margin: 3reem, 0, 1.40rem;
+    font-family: "roboco condensed", sans-serif;
+    color: #d70680;
+}
+p{
+    font-size: 3rem;
+    color: #fb0404;
+    text-align: center;
+
+}
+
+h3{
+    color: #fe0b0b
+}
+
+.producto table{
+    margin: auto
+}
+
+.producto thead, th{
+    background-color: #270229;
+    color: #fcf9fc;
+    text-align: center;
+    
+}
+.producto thead, td{
+    border: 2px solid #270229;
+    padding: 0.5%;
+}
+
+.producto img{
+    height: 80%;
+    width: 100%;
+    
+}
+   
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+          
